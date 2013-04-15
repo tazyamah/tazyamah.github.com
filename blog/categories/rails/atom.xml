@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[tazyamah note]]></title>
-  <link href="http://tazyamah.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: rails | tazyamah note]]></title>
+  <link href="http://tazyamah.github.io/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://tazyamah.github.io/"/>
   <updated>2013-04-15T21:54:12+09:00</updated>
   <id>http://tazyamah.github.io/</id>
@@ -74,17 +74,6 @@ gem installにも、インストール先を指定するようなオプション
 
 
 <p>いやー勉強になりましたわー＾＾；</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Github Pagesはじめました]]></title>
-    <link href="http://tazyamah.github.io/blog/2013/04/15/first-page/"/>
-    <updated>2013-04-15T21:09:00+09:00</updated>
-    <id>http://tazyamah.github.io/blog/2013/04/15/first-page</id>
-    <content type="html"><![CDATA[<p>http://blog.glidenote.com/blog/2011/11/07/install-octopress-on-github/</p>
-
-<p>ここらへんを参考にGithubPagesを始めてみた。</p>
 ]]></content>
   </entry>
   
